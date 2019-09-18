@@ -1,13 +1,12 @@
 
 TITLE: 
-ORPHANAGE - 100% Fully Responsive
+Pheonix Home Orphanage Management Website- 100% Fully Responsive
 
 AUTHOR:
 DESIGNED & DEVELOPED by FreeHTML5.co
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website : https://pheonixhome.000webhostapp.com
+Template: http://freehtml5.co/
 
 
 CREDITS:
