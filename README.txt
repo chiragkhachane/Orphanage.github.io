@@ -1,13 +1,7 @@
 
 TITLE: 
 Pheonix Home Orphanage Management Website- 100% Fully Responsive
-
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website : https://pheonixhome.000webhostapp.com
-Template: http://freehtml5.co/
-
+Website : https://pheonixhome.tk
 
 CREDITS:
 
