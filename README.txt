@@ -1,6 +1,5 @@
 
-TITLE: 
-Pheonix Home Orphanage Management Webapp:
+TITLE: Pheonix Home Orphanage Management Webapp
     It is a Webapp developed to manage the data in orphanages.
     
 Technologies used:
